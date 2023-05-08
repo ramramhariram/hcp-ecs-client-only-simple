@@ -1,2 +1,4 @@
-# hcp-ecs-client-only-simple
-To connect ecs clients to HCP consul, simplified version, and with fake-service (not hashicups) 
+# aws_ecs_cluster
+
+A Terraform module used to run Consul clients in ECS tasks.
+
